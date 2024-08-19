@@ -104,30 +104,49 @@ This portion of the project seeks to utilize Tableau to create an interactive sa
 
 ## Code
 ├── 1_datasets
+
 ├────── anonymized_clients.csv
+
 ├────── anonymized_project_sites.csv
+
 ├────── custom_order_tasks.csv
+
 ├────── order_tasks.csv
+
 ├────── paid_invoices.csv
+
 ├────── unpaid_invoices.csv
 
 ├── 2_database_creation_and_import
+
 ├────── anonymizer.ipynb
+
 ├────── data_dictionary.pdf
+
 ├────── erd.png
+
 ├────── database_creation.sql
+
 ├────── data_import_mapping.pdf
+
 ├────── data_import.sql
 
 ├── 3_data_cleaning
+
 ├────── data_cleaning1_project_sites.sql
+
 ├────── data_cleaning2_orders.sql
+
 ├────── data_cleaning3_order_tasks.sql
+
 ├────── data_cleaning4_invoices.sql
 
 ├── 4_data_analysis
+
 ├────── analysis_queries.sql
+
 ├────── analysis_results.xlsx
+
 ├────── tableau_dashboard_and_story.twbx
 
 ├── README.md
