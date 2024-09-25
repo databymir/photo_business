@@ -22,18 +22,18 @@
 
 ## Installation
 ### Codes and Resources Used
-Python Version: 3.12.3
-Jupyter Notebook Version: 7.0.6
-pgAdmin Version: 8.7
-PostgreSQL Version: 16.3
+* Python Version: 3.12.3
+* Jupyter Notebook Version: 7.0.6
+* pgAdmin Version: 8.7
+* PostgreSQL Version: 16.3
 
 ### Python Packages Used
 #### Data Manipulation
-NumPy Version: 1.26.2
-Pandas Version: 2.1.4
+* NumPy Version: 1.26.2
+* Pandas Version: 2.1.4
 
 #### Data Anonymization
-Faker Version: 26.0.0
+* Faker Version: 26.0.0
 
 ## Data
 ### Database Creation
@@ -148,6 +148,8 @@ This portion of the project seeks to utilize Tableau to create an interactive sa
 ├────── analysis_results.xlsx
 
 ├────── tableau_dashboard_and_story.twbx
+
+├── LICENSE
 
 ├── README.md
 
