@@ -56,7 +56,7 @@ Six CSV files will be imported to populate the database with data from the busin
 2. Manually generated data
     - One of the six CSV files was manually generated as part of this project: 
         * custom_order_tasks.csv
-    - Upon exporting the five Client Portal reports, we determined that a small number of orders were generated as “site-only” projects by the business owner. These projects are predominantly custom projects for commercial clients and the owner was creating them in an expedited process that does not mirror the usual ordering process. 
+    - Upon exporting the five Client Portal reports, I determined that a small number of orders were generated as “site-only” projects by the business owner. These projects are predominantly custom projects for commercial clients and the owner was creating them in an expedited process that does not mirror the usual ordering process. 
     - In the client portal, this generates invoice data but does not create any order tasks or a typical order ID. 
     - All such projects have been marked with an order ID that starts with “S-”.
     - To create order tasks for these projects, project information was manually entered into the file “custom_order_tasks.csv.” The fields are the same as the Order Tasks report from the portal, but "Custom” is entered as the task category and task name.
