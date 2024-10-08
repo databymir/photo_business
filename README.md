@@ -10,7 +10,7 @@
 * Created an interactive dashboard to communicate KPIs and suggest follow-up opportunities with clients who have only booked one photoshoot
 * Crafted a Tableau story to communicate key insights and introduce the new sales dashboard to the business owner
 
-Note:   The HTML rendering of the summary notebook can be viewed [here](insert-link-here),  
+Note:   The HTML rendering of the summary notebook can be viewed [here](https://nbviewer.org/github/databymir/photo_business/blob/main/photo_business_analysis_sql_insights.ipynb),  
         the Tableau dashboard can be viewed [here](https://public.tableau.com/app/profile/miranda.oliverius/viz/PhotographyBusinessDashboardStory/Dashboard),  
         and the Tableau story can be viewed [here](https://public.tableau.com/app/profile/miranda.oliverius/viz/PhotographyBusinessDashboardStory/Story).
 
