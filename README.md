@@ -10,6 +10,10 @@
 * Created an interactive dashboard to communicate KPIs and suggest follow-up opportunities with clients who have only booked one photoshoot
 * Crafted a Tableau story to communicate key insights and introduce the new sales dashboard to the business owner
 
+Note:   The HTML rendering of the summary notebook can be viewed [here](insert-link-here),  
+        the Tableau dashboard can be viewed [here](https://public.tableau.com/app/profile/miranda.oliverius/viz/PhotographyBusinessDashboardStory/Dashboard),  
+        and the Tableau story can be viewed [here](https://public.tableau.com/app/profile/miranda.oliverius/viz/PhotographyBusinessDashboardStory/Story).
+
 ## Table of Contents
 * [Authors](#authors)
 * [Installation](#installation)
@@ -103,6 +107,8 @@ The “analysis_queries.sql” file contains the SQL code for the following fift
 This portion of the project seeks to utilize Tableau to create an interactive sales dashboard and Tableau story to present analytical insights to the business owner. The public version of this Tableau file utilizes anonymized names and the data through 7/31/2024. As a result, all date parameters for things such as "Last Year" utilize a hard-coded 7/31/2024 date for the "current" date. The "tableau_dashboard_and_story.twbx" file contains the entire Tableau workbook, packaged with the source data.
 
 ## Code
+├── photo_business_analysis_sql_insights.ipynb
+
 ├── 1_datasets
 
 ├────── anonymized_clients.csv
